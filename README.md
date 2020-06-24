@@ -29,3 +29,13 @@ MySQL MSSQL PostgreSQL的数据库管理工具
   
 也是服务器，您可以使用网址http://127.0.0.1:8082/web/在网络浏览器上打开它  
 或使用http://你的电脑ip:8082 / web /在其他计算机上打开它  
+
+
+![ui](https://github.com/zzxap/DatabaseTool/blob/master/images/1.png)  
+![ui](https://github.com/zzxap/DatabaseTool/blob/master/images/2.png)  
+![ui](https://github.com/zzxap/DatabaseTool/blob/master/images/3.png)  
+![ui](https://github.com/zzxap/DatabaseTool/blob/master/images/4.png)  
+![ui](https://github.com/zzxap/DatabaseTool/blob/master/images/5.png)  
+![ui](https://github.com/zzxap/DatabaseTool/blob/master/images/6.png)  
+![ui](https://github.com/zzxap/DatabaseTool/blob/master/images/7.png)  
+
