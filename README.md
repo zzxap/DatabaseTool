@@ -1,5 +1,5 @@
 # DatabaseTool
-Database manage tool for MySQL MSSQL PostgreSQL  
+Database manage tool for MySQL MSSQL PostgreSQL  SQLite  ETCD 
 1.connect database with ip port username password  
 2.show all database   
 3.chose database show all tables in this database  
@@ -15,7 +15,7 @@ is a Server too,you can open it on web brower with url http://127.0.0.1:8082/web
 or open it in other computer with  http://yourpcip:8082/web/  
 
 
-MySQL MSSQL PostgreSQL的数据库管理工具  
+MySQL MSSQL PostgreSQL  SQLite  ETCD  的数据库管理工具  
 1.使用ip端口用户名密码连接数据库  
 2.显示所有数据库  
 3.选择数据库显示该数据库中的所有表  
