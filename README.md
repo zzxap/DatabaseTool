@@ -31,10 +31,10 @@ MySQL MSSQL PostgreSQL  SQLite  ETCD  的数据库管理工具
 或使用http://你的电脑ip:8082 / web /在其他计算机上打开它  
 
 
-![ui](https://github.com/zzxap/DatabaseTool/blob/master/images/1.png?raw=true)  
-![ui](https://github.com/zzxap/DatabaseTool/blob/master/images/2.png?raw=true)  
-![ui](https://github.com/zzxap/DatabaseTool/blob/master/images/3.png?raw=true)  
-![ui](https://github.com/zzxap/DatabaseTool/blob/master/images/4.png?raw=true)  
+![ui](http://www.iosbuy.com/app/images/dbmanage/1.PNG)  
+![ui](http://www.iosbuy.com/app/images/dbmanage/2.PNG)  
+![ui](http://www.iosbuy.com/app/images/dbmanage/7.PNG)  
+![ui](http://www.iosbuy.com/app/images/dbmanage/4.PNG)  
 ![ui](https://github.com/zzxap/DatabaseTool/blob/master/images/5.png?raw=true)  
 ![ui](https://github.com/zzxap/DatabaseTool/blob/master/images/6.png?raw=true)  
 ![ui](https://github.com/zzxap/DatabaseTool/blob/master/images/7.png?raw=true)  
