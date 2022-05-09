@@ -1,5 +1,8 @@
 # DatabaseTool
 DatabaseTool
+
+For MYSQL MSSQL PostgreSQL SQLite ETCD
+
 windows
 go build -ldflags="-H windowsgui" -o DBmanage.exe
 
