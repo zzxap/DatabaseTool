@@ -1,0 +1,10 @@
+cd /home/gopath/src ; (rm -rf DataBaseManage) ; ( rm -f DataBaseManage.zip); rz
+
+unzip -o DataBaseManage.zip && cd DataBaseManage && go build -ldflags "-w -s"  main.go
+
+(rm -f DBManage.zip)&&(mv main DBManage)&&(zip -r DBManage.zip DBManage)&&(sz DBManage.zip)
+
+(rm -f DBManage) && (unzip DBManage_\(2\).zip) &&(chmod 771 DBManage)&&(rm -f DBManage_\(2\).zip)
+
+(kill -9 $(pidof DBManage)) &&(nohup ./DBManage &) &&(ps -aux | grep "DBManage")
+(kill -9 $(pidof DBManage))  &&(ps -aux | grep "DBManage")
