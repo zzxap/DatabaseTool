@@ -3,6 +3,11 @@ DatabaseTool
 
 For MYSQL MSSQL PostgreSQL SQLite ETCD
 
+set http port in config.ini
+run DBmanage
+mac and windows has UI
+linux can open url http://ip:port/web/ to use
+
 windows
 go build -ldflags="-H windowsgui" -o DBmanage.exe
 
